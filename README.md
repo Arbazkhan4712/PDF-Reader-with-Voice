@@ -1,11 +1,11 @@
+# PDF & Image Text Reader That can Speak
+PDF & Image Text Reader That can Speak using python , pyttsx3 &  Tesserct
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                  [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
  [![GitHub forks](https://img.shields.io/github/forks/arbazkhan4712/PDF-Reader-with-Voice?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)                 [![GitHub star](https://img.shields.io/github/stars/arbazkhan4712/PDF-Reader-with-Voice?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
 
-
-# PDF & Image Text Reader That can Speak
-PDF & Image Text Reader That can Speak using python , pyttsx3 &  Tesserct
 
 ## Installation:
 - Install tesserct-ocr using this command:
